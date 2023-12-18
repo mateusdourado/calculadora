@@ -26,7 +26,8 @@ Abra [http://localhost:3000](http://localhost:3000) em seu navegador para ver o 
 
 ## Preview 
 
-![Desk](https://github.com/mateusdourado/calculadora/blob/master/public/calc.jpeg)
+![Desk](https://github.com/mateusdourado/calculadora/blob/main/public/calc.jpeg)
+
 
 ## Observação
 
